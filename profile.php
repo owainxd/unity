@@ -1,4 +1,5 @@
 <?php
+require('menu.php');
 include('session_player.php');
 ?>
 

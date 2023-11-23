@@ -1,0 +1,13 @@
+ajouter un menu différent pour les users simple 
+et un autre menu pour l'administreur
+
+enlever le message d'erreur lors de la connexion
+
+atterrir directement à la page de connexion 
+avec lien pour l'inscription 
+
+ajouter la liste des jeux 
+
+et le classement des joueurs
+
+ajouter un menu amdin : https://getbootstrap.com/docs/5.0/examples/sidebars/#
