@@ -29,7 +29,7 @@
                     <a class="nav-link" href="users.php">Players</a>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" d    ata-bs-toggle="dropdown" aria-expanded="false">
                     Team
                     </a>
                     <ul class="dropdown-menu">
