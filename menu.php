@@ -27,24 +27,6 @@
                     <a class="nav-link" href="register.php">Register</a>
                     <a class="nav-link" href="connexion.php">Connexion</a>
                     <a class="nav-link" href="users.php">Players</a>
-
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" d    ata-bs-toggle="dropdown" aria-expanded="false">
-                    Team
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Pauline</a></li>
-                        <li><a class="dropdown-item" href="#">Meilin</a></li>
-                        <li><a class="dropdown-item" href="#">Jonathan</a></li>
-                        <li><a class="dropdown-item" href="#">Jaques</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Ewan</a></li>
-                        <li><a class="dropdown-item" href="#">Thibault</a></li>
-                        <li><a class="dropdown-item" href="#">Landry</a></li>
-                        <li><a class="dropdown-item" href="#">Sophie</a></li>
-                        <li><a class="dropdown-item" href="#">Lucie</a></li>
-                    </ul>
-                </li>
                 </div>
             </div>
         </div>
